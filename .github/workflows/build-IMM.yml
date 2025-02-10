@@ -164,7 +164,7 @@ jobs:
           基于immortalwrt openwrt构建
           首次使用建议全新刷写
           * 基本信息
-          IP: 10.10.13.2
+          IP: 10.10.10.2
           账户: root
           密码: password
           
